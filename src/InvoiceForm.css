@@ -1,0 +1,64 @@
+.form__control input {
+  max-width: 22rem !important;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffff;
+  border-radius: 10px !important;
+}
+
+.form__control {
+  text-align: center;
+
+}
+.btn-dark{
+    color: white !important;
+    background-color: #40005d !important;
+}
+
+.btn-outline-light:hover
+{
+    background-color: black !important;
+}
+.invoiceform__container{
+    max-width: 1000px !important;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.619);
+    color: black;
+    font-weight: 600;
+    border-radius: 20px !important;
+}
+
+
+input::placeholder{
+       
+    color: rgb(220, 204, 204);
+  }
+
+  .margin__adjust{
+      margin-left: auto;
+      margin-right: auto;
+      
+  }
+
+  .btn{
+    font-weight: 500 !important;
+    border-radius: 10px !important;
+
+
+  }
+
+  .form-text{
+    color: #374151 !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .form-select{
+    border-radius: 20px;
+  }
+  
+  .invoice{
+    margin-left: 83px;
+   
+  }

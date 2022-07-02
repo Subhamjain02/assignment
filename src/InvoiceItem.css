@@ -1,0 +1,28 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    font-weight: 600px;
+}
+
+.margin__adjust{
+    text-align: center;
+}
+
+.custom__width{
+    max-width: 900px !important;
+}
+
+.invoiceitem__border{
+    border: 3px solid #74c2ec;
+    border-radius: 10px !important;
+}
+
+.row__border{
+    border-bottom: 1px solid #74c2ec;
+}
+
+.adjust__center{
+    text-align: center;
+}
